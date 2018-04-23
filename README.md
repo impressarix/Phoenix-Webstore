@@ -7,7 +7,7 @@ We are just getting started.  There's nothing usable yet
 
 Philosophy
 ============
-Provide a sophisticated, full-featured e-commerce framework that treats common features found in the wild as first-class citizens.
+Provide a sophisticated, full-featured webstore framework that treats common features found in the wild as first-class citizens.
 
 Subscriptions, recurring payments, customizable products, multi-currency/language, store credits, non-physical products e.g. services, digital goods, 
 etc. are to be an integral part of the framework.
