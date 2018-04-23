@@ -1,5 +1,5 @@
-# Emporium
-An e-commerce framework using Elixir
+# Phoenix-Webstore
+A webstore framework using Elixir
 
 Status
 ==============================
